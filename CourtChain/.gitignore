@@ -1,0 +1,13 @@
+﻿**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+**/test-results/
+**/playwright-report/
+.local-backup/
+*.db
+*.db-shm
+*.db-wal
+*.zip
+report-extracted.txt
+.env

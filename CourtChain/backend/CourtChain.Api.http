@@ -1,0 +1,6 @@
+@CourtChain.Api_HostAddress = http://localhost:5042
+
+GET {{CourtChain.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
